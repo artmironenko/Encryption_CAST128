@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">Encryption_CAST128</string>
-
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Приложение</string>
     <string name="action_settings">Settings</string>
+    <string name="encoding">Шифровать</string>
+    <string name="decoding">Дешифровать</string>
+    <string name="originText">Введите сообщение</string>
+    <string name="player1">Отправитель</string>
+    <string name="player2">Получатель</string>
+
 </resources>
